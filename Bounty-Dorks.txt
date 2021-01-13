@@ -1,0 +1,153 @@
+inurl /bug bounty
+
+white hat program
+
+inurl : / security
+
+inurl:security.txt
+
+"powered by synack"
+
+inurl"security report"
+
+inurl:security "reward"
+
+buy bitcoins "bug bounty"
+
+site:help.*.* inurl:bounty
+
+site responsible disclosure
+
+responsible disclosure:sites
+
+responsible disclosure europe
+
+intext responsible disclosure
+
+responsible disclosure r=h:nl
+
+responsible disclosure r=h:uk
+
+responsible disclosure r=h:eu
+
+"submit vulnerability report"
+
+intext:bounty inurl:/security
+
+/trust/report-a-vulnerability
+
+site eu responsible disclosure
+
+site:responsibledisclosure.com
+
+inurl : /responsible disclosure
+
+site .nl responsible disclosure
+
+inurl: private bugbountyprogram
+
+inurl:reporting-security-issues
+
+site:security.*.* inurl: bounty
+
+responsible disclosure white hat
+
+"vulnerability reporting policy"
+
+"security vulnerability" "report"
+
+inurl:/security ext:txt "contact"
+
+inurl:security-policy.txt ext:txt
+
+site:*.*.* inurl:bug inurl:bounty
+
+inurl:/security ext:txt "contact"
+
+responsible disclosure swag r=h:nl
+
+responsible disclosure swag r=h:uk
+
+responsible disclosure swag r=h:eu
+
+site:*.*.de inurl:bug inurl:bounty
+
+responsible disclosure swag r=h:com
+
+responsible disclosure hall of fame
+
+"responsible disclosure" university
+
+inurl:/.well-known/security ext:txt
+
+inurl:responsible-disclosure-policy
+
+responsible disclosure bounty r=h:nl
+
+responsible disclosure bounty r=h:uk
+
+responsible disclosure bounty r=h:eu
+
+responsible disclosure reward r=h:nl
+
+responsible disclosure reward r=h:uk
+
+responsible disclosure reward r=h:eu
+
+intext:responsible disclosure bounty
+
+inurl : / responsible-disclosure/ swag
+
+inurl:'/responsible disclosure' hoodie
+
+inurl : /responsible-disclosure/ reward
+
+intext:Vulnerability Disclosure site:nl
+
+intext:Vulnerability Disclosure site:eu
+
+inurl : / responsible-disclosure/ bounty
+
+"powered by bugcrowd" -site:bugcrowd.com
+
+insite:"responsible disclosure" -inurl:nl
+
+site:*.*.nl intext:security report reward
+
+inurl:/responsible-disclosure/ university
+
+site:*.*.uk intext:security report reward
+
+site:*.*.cn intext:security report reward
+
+intext:security report reward inurl:report
+
+inurl:'vulnerability-disclosure-policy' reward
+
+site:support.*.* intext:security report reward
+
+intext:security report monetary inurl:security 
+
+site:*.*.nl intext:responsible disclosure reward
+
+"Submission Form powered by Bugcrowd" -bugcrowd.com
+
+"powered by hackerone" "submit vulnerability report"
+
+inurl:/.well-known/security ext:txt intext:hackerone
+
+inurl:"bug bounty" and intext:"$" and inurl:/security
+
+"If you believe you've found a security vulnerability"
+
+intext:"BugBounty" and intext:"BTC" and intext:"reward"
+
+inurl:"bug bounty" and intext:"€" and inurl:/security
+
+inurl:"bug bounty" and intext:"INR" and inurl:/security
+
+"van de melding met een minimum van een" -site:responsibledisclosure.nl
+
+inurl:/.well-known/security ext:txt -hackerone -bugcrowd -synack -openbugbounty
+
+inurl:/security.txt "mailto*" -github.com  -wikipedia.org -portswigger.net -magento
